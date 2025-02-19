@@ -1,6 +1,6 @@
 import pandas as pd
 
-hesa_df = pd.read_csv("HESA data all.csv")  # Columns: Hospital, NHS_Trust
+hesa_df = pd.read_csv("HESA data new.csv")  # Columns: Hospital, NHS_Trust
 
 print(hesa_df.columns)
 
@@ -12,4 +12,4 @@ hesa_df_pivot = pd.pivot_table(hesa_df,
                                aggfunc='sum')  # You can change 'sum' to other functions like 'mean', etc.
 
 
-hesa_df_pivot.to_csv("pivoted_hesa_data.csv")
+hesa_df_pivot.to_csv("pivoted_hesa_data_new.csv")
