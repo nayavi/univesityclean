@@ -1,17 +1,3 @@
-﻿﻿Title:,"Table 2 - Energy"
-Subtitle:,"Academic years 2015/16 to 2022/23"
-Reference ID:,DT042 Table 2
-Data source:,HESA
-Data source link:,https://www.hesa.ac.uk/data-and-analysis/estates/table-2
-Data file canonical link:,https://www.hesa.ac.uk/data-and-analysis/estates/table-2.csv
-Licence:,Creative Commons Attribution 4.0 International Licence
-Date:,2024
-Filters:,Country of HE provider,Choose a value... 
-,Region of HE provider,Choose a value... 
-,Academic year,2022/23 
-Search:,
-
-
 "UKPRN","HE provider","Total energy consumption (kWh)","Total fuel used in HE provider owned vehicles (litres)","Total generation of electricity exported to grid (kWh)","Total water consumption (m3)","Total renewable energy generated onsite or offsite (kWh)"
 "10007783","The University of Aberdeen","70,410,710.828","21,895.300","0.000","153,495.657","114,491.800"
 "10007849","Abertay University","7,898,948.000","900.000","0.000","10,501.000",""
