@@ -1,21 +1,4 @@
-﻿﻿Title:,"Table 1 - HE student enrolments by HE provider"
-Subtitle:,"Academic years 2014/15 to 2022/23"
-Reference ID:,DT051 Table 1
-Data source:,HESA
-Data source link:,https://www.hesa.ac.uk/data-and-analysis/students/table-1
-Data file canonical link:,https://www.hesa.ac.uk/data-and-analysis/students/table-1.csv
-Licence:,Creative Commons Attribution 4.0 International Licence
-Date:,2024
-Filters:,Country of HE provider,All 
-,Region of HE provider,All 
-,Entrant marker,All 
-,Level of study,All 
-,Mode of study,All 
-,Academic year,2022/23 
-Search:,
-
-
-"UKPRN","HE provider","Female","Male","Unknown","Total"
+﻿﻿"UKPRN","HE provider","Female","Male","Unknown","Total"
 "10008071","AA School of Architecture","590","410","0","1,000"
 "10007783","The University of Aberdeen","8,950","6,470","35","15,455"
 "10007849","Abertay University","2,280","2,530","35","4,840"
